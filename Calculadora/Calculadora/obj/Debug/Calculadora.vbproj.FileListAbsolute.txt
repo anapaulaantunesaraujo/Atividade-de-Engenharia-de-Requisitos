@@ -1,0 +1,12 @@
+C:\Projetos\Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Projetos\Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Projetos\Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Projetos\Visual Studio\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojAssemblyReference.cache
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.cache
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.CoreCompileInputs.cache
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Projetos\Visual Studio\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
