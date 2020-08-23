@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\bin\Debug\CadastroProduto.exe.config
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\bin\Debug\CadastroProduto.exe
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\bin\Debug\CadastroProduto.pdb
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\bin\Debug\CadastroProduto.xml
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.vbprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.CadastroProduto.resources
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.Resources.resources
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.exe
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.xml
+C:\Users\Admin\source\repos\EstoqueLivraria\CadastroProduto\obj\Debug\CadastroProduto.pdb
